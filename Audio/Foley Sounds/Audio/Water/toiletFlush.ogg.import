@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bfd7a6phyog8u"
+path="res://.godot/imported/toiletFlush.ogg-045a05a4f1c4c0606557d01192ef661f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley Sounds/Audio/Water/toiletFlush.ogg"
+dest_files=["res://.godot/imported/toiletFlush.ogg-045a05a4f1c4c0606557d01192ef661f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

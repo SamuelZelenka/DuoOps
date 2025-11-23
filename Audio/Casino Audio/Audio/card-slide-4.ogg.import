@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://ddjn6qte5ik63"
+path="res://.godot/imported/card-slide-4.ogg-125c8bd3ad8ddec5a25034dd271d3ce9.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Casino Audio/Audio/card-slide-4.ogg"
+dest_files=["res://.godot/imported/card-slide-4.ogg-125c8bd3ad8ddec5a25034dd271d3ce9.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

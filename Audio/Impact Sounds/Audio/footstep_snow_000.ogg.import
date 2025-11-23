@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bydwxhx57swem"
+path="res://.godot/imported/footstep_snow_000.ogg-4c94d258b02bd9ebf97546a0be4c0c53.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Impact Sounds/Audio/footstep_snow_000.ogg"
+dest_files=["res://.godot/imported/footstep_snow_000.ogg-4c94d258b02bd9ebf97546a0be4c0c53.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

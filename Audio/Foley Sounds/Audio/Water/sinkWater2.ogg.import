@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bu5jkrvfvnhuu"
+path="res://.godot/imported/sinkWater2.ogg-63b8bed5ab6508facd0be08a3f694ff9.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley Sounds/Audio/Water/sinkWater2.ogg"
+dest_files=["res://.godot/imported/sinkWater2.ogg-63b8bed5ab6508facd0be08a3f694ff9.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

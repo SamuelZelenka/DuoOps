@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://5xfjqdhf6so8"
+path="res://.godot/imported/thrusterFire_002.ogg-944909f0035108f27de4d404ce5c04a3.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Sci-Fi Sounds/Audio/thrusterFire_002.ogg"
+dest_files=["res://.godot/imported/thrusterFire_002.ogg-944909f0035108f27de4d404ce5c04a3.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

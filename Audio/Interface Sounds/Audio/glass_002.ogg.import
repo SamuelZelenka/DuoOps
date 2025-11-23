@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://g2pydh6q877f"
+path="res://.godot/imported/glass_002.ogg-115b3aed102efad67f827a8de60caf60.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Interface Sounds/Audio/glass_002.ogg"
+dest_files=["res://.godot/imported/glass_002.ogg-115b3aed102efad67f827a8de60caf60.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

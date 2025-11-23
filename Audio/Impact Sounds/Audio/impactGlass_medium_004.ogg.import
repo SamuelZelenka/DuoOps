@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cf25c13p4gvmj"
+path="res://.godot/imported/impactGlass_medium_004.ogg-ee91f643bc0cccc7754fea9c86a60dbd.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Impact Sounds/Audio/impactGlass_medium_004.ogg"
+dest_files=["res://.godot/imported/impactGlass_medium_004.ogg-ee91f643bc0cccc7754fea9c86a60dbd.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

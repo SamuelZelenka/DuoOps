@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bp6kjxwdcht5y"
+path="res://.godot/imported/stoneHit3.ogg-c119407377a28cd744471b7692535365.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley Sounds/Audio/Rocks/stoneHit3.ogg"
+dest_files=["res://.godot/imported/stoneHit3.ogg-c119407377a28cd744471b7692535365.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

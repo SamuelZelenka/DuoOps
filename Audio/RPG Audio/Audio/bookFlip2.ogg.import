@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://crq5c4u5amm7u"
+path="res://.godot/imported/bookFlip2.ogg-c43cd5ae92d33ca2d2e817651aa76ae8.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/RPG Audio/Audio/bookFlip2.ogg"
+dest_files=["res://.godot/imported/bookFlip2.ogg-c43cd5ae92d33ca2d2e817651aa76ae8.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

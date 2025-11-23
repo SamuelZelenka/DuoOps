@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d2tujbvdggvba"
+path="res://.godot/imported/toggle_001.ogg-8f8edde45f45b36db6dcb68ed7fae01d.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Interface Sounds/Audio/toggle_001.ogg"
+dest_files=["res://.godot/imported/toggle_001.ogg-8f8edde45f45b36db6dcb68ed7fae01d.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

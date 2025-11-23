@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b53tw048h2v3v"
+path="res://.godot/imported/swordStone3.ogg-f0afbe8461fd1b6133bda3d9f2b706cf.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Foley Sounds/Audio/Swords/swordStone3.ogg"
+dest_files=["res://.godot/imported/swordStone3.ogg-f0afbe8461fd1b6133bda3d9f2b706cf.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

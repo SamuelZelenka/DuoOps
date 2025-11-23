@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://b5iy2r3uy4ctc"
+path="res://.godot/imported/threeTone1.ogg-b1d8337329e5bae368805bdcedf362a0.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Digital Audio/Audio/threeTone1.ogg"
+dest_files=["res://.godot/imported/threeTone1.ogg-b1d8337329e5bae368805bdcedf362a0.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

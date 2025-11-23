@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://cxix0gspgbunf"
+path="res://.godot/imported/zap2.ogg-074a08652f2028202a315f623ad84b05.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Digital Audio/Audio/zap2.ogg"
+dest_files=["res://.godot/imported/zap2.ogg-074a08652f2028202a315f623ad84b05.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://d7a2n2k1y22l"
+path="res://.godot/imported/rumble3.ogg-aa489ae2be7ccc5d9878dd981316c751.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Retro Sounds 1/Audio/rumble3.ogg"
+dest_files=["res://.godot/imported/rumble3.ogg-aa489ae2be7ccc5d9878dd981316c751.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

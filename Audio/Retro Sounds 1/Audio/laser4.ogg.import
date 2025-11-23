@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bc4xovnmcxlfr"
+path="res://.godot/imported/laser4.ogg-333b0a191f608681f6ea016f8242b98f.oggvorbisstr"
+
+[deps]
+
+source_file="res://Audio/Retro Sounds 1/Audio/laser4.ogg"
+dest_files=["res://.godot/imported/laser4.ogg-333b0a191f608681f6ea016f8242b98f.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
